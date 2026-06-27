@@ -1,49 +1,108 @@
+<div align="center">
+
+<img src="banner.jpg" width="100%" alt="Banner"/>
+
+<br>
+
+# Afzan Khan
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=180&section=header&text=afzanlearns&fontColor=ffffff&fontSize=40" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+AI+Developer+Tools;Designing+Software+People+Enjoy+Using;Local+AI+%E2%80%A2+Autonomous+Agents;Shipping+Ideas+Into+Products" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=460&lines=Frontend+Developer;UI-Focused+Builder;Learning+by+Building;Design-Driven+Interfaces" />
+  <kbd>Developer Tools</kbd>
+  &nbsp;•&nbsp;
+  <kbd>Artificial Intelligence</kbd>
+  &nbsp;•&nbsp;
+  <kbd>Thoughtful Design</kbd>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Developer-8B0000?style=flat" />
-  <img src="https://img.shields.io/badge/UI-Focused-B00020?style=flat" />
-  <img src="https://img.shields.io/badge/Status-Learning-C1121F?style=flat" />
-</p>
+Building products at the intersection of AI, developer tools, and thoughtful design.
 
-## 🔴 Hey there!
+<br>
 
-I’m Afzan a frontend-focused developer who loves building clean & eye pleasing interfaces.
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://afzan.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-I like turning simple ideas into polished user experiences.
+</div>
 
-Right now, my focus is on strengthening frontend fundamentals while gradually exploring backend concepts and AI tools.
+---
 
+## About
 
-## 🔴 Tech I Work With
+I enjoy building software that feels effortless to use.
 
+Most of my projects explore the intersection of artificial intelligence, developer experience, and modern interface design. I enjoy taking ambitious ideas from concept to production while keeping the experience simple, fast, and intuitive.
 
-I work primarily with TailwindCSS, JavaScript, React & TypeScript (Learning) with a strong focus on UI styling, animations, and visual polish. 
+Currently focused on local AI, autonomous systems, workflow automation, and developer tooling.
 
-As for tools, My favourites include Git/GitHub, Antigravity and Claude AI.
+---
 
-## 🔴 What I’m Building 
+## Selected Projects
 
-I love designing and building whatever i can imagine.
+### Zeke
 
-If an idea pops into my head, chances are I’ll build it. 
+AI desktop assistant built around planning, computer use, long-term memory, and intelligent workflows.
 
-I love to build personal frontend projects which focus on clarity, usability, and thoughtful design.
+### Perch
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FF0000,B00020,7A0000&height=6&width=100%&section=footer" />
-</p>
+Mission control for local development environments. Monitor services, processes, logs, and everything running on your machine from one interface.
 
-<p align="center">
-   Building. Refining. Repeating.
-</p>
+### Codex
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=FF0000,B00020,7A0000&height=6&width=100%&section=footer" />
-</p>
+Repository intelligence powered by semantic search, embeddings, and retrieval-augmented generation.
+
+---
+
+## Technologies
+
+**Languages**
+
+TypeScript • JavaScript • Python • Java
+
+**Frontend**
+
+React • Next.js • Tailwind CSS
+
+**Backend**
+
+Node.js • Express
+
+**Artificial Intelligence**
+
+OpenAI • Ollama • ChromaDB • Embeddings • RAG • Computer Use
+
+**Infrastructure**
+
+Git • Docker • Linux • VS Code
+
+---
+
+## Current Interests
+
+- AI Developer Tools
+- Autonomous Agents
+- Local Language Models
+- Human Computer Interaction
+- Workflow Automation
+- System Design
+
+---
+
+## Philosophy
+
+> Build deliberately.
+>
+> Ship consistently.
+>
+> Improve relentlessly.
+
+---
+
+<div align="center">
+
+Building software I'd be excited to use.
+
+</div>
